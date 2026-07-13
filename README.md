@@ -3,6 +3,12 @@
 </div>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aaryansingh66665&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/aaryansingh66665">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E95D3&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;Machine+Learning+Enthusiast;Python+%26+Java+Developer;Always+learning+and+building!" alt="Typing SVG" />
   </a>
@@ -12,61 +18,88 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm deeply passionate about **Software Engineering, Artificial Intelligence, and Machine Learning**.
-- 🔭 I’m currently working on cool projects like **SentinelAI** and **Machine Learning Predictors**.
-- 💻 My recent works include a **Custom File Compressor** in Java and an **Insurance Cost Prediction System**.
-- 🌱 I’m currently exploring more about **Advanced AI models, Data Science, and modern Web Technologies**.
-- 💬 Ask me about **Python, Java, and building AI tools**.
-- 📫 How to reach me: [**aaryansingh66665@github**](https://github.com/aaryansingh66665) 
+<div align="center">
+<p>
+  <strong>I'm a passionate developer focusing on Artificial Intelligence and scalable systems.</strong><br>
+  I love turning complex problems into simple, beautiful, and intuitive designs.
+</p>
+</div>
+
+- 🔭 **Currently working on:** [SentinelAI](https://github.com/aaryansingh66665/SentinelAI) & ML Predictors
+- 🌱 **Currently learning:** Advanced AI models, Deep Learning, and Modern Web Tech
+- 💡 **Interests:** Data Science, Algorithm Optimization, and building cool bots!
+- ⚡ **Fun fact:** I built a Custom File Compressor from scratch in Java!
+- 📫 **Reach me at:** [aaryansingh66665@gmail.com](mailto:aaryansingh66665@gmail.com)
+
+<div align="center">
+  <a href="https://github.com/aaryansingh66665"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/aryan-singh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aaryansingh66665&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Aryan's Trophies" />
+  </a>
+</div>
+
+---
+
+### 🛠️ Languages & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,ts,mysql,git,github,vscode,linux,docker&perline=10" alt="Tech Stack" />
+  </a>
 </div>
 
 ---
 
 ### 🚀 Top Projects
 
-| Project | Description | Tech Stack |
+| Project & Link | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Custom File Compressor](https://github.com/aaryansingh66665/Custom-file-compressor-Prototype-)** | A secure file compression system using BWT, MTF, RLE, and Huffman coding. | `Java` |
-| **[Insurance Cost Predictor](https://github.com/aaryansingh66665/insurance-Cost-Prediction-System-using-Machine-Learning)** | Machine learning model to predict insurance costs based on given data. | `Python`, `ML` |
-| **[SentinelAI](https://github.com/aaryansingh66665/SentinelAI)** | AI-driven sentinel/monitoring project. | `Python` |
-| **[Social Saver Bot](https://github.com/aaryansingh66665/Social-Saver-Bot-hackathon-project)** | A hackathon project building a useful utility bot. | `Python` |
+| 🗜️ **[Custom File Compressor](https://github.com/aaryansingh66665/Custom-file-compressor-Prototype-)** | A secure file compression system using BWT, MTF, RLE, and Huffman coding. | `Java` |
+| 🏥 **[Insurance Cost Predictor](https://github.com/aaryansingh66665/insurance-Cost-Prediction-System-using-Machine-Learning)** | ML model to predict insurance costs based on given health data. | `Python`, `ML` |
+| 👁️ **[SentinelAI](https://github.com/aaryansingh66665/SentinelAI)** | AI-driven sentinel and monitoring project for enhanced security. | `Python`, `AI` |
+| 🤖 **[Social Saver Bot](https://github.com/aaryansingh66665/Social-Saver-Bot-hackathon-project)** | A hackathon-winning utility bot built to save social resources. | `Python` |
+| 🧠 **[Myraa AI](https://github.com/HIDEHARDY/myraa-ai-)** *(Contributed)* | An intelligent AI assistant companion for everyday tasks. | `TypeScript` |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryansingh66665&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Aryan's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryansingh66665&theme=tokyonight&hide_border=true&background=0D1117" alt="Aryan's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryansingh66665&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Aryan's GitHub stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryansingh66665&theme=react&hide_border=true&background=0D1117" alt="Aryan's GitHub Streak" height="195" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryansingh66665&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryansingh66665&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br>
+
+<!-- SNAKE ANIMATION WILL APPEAR HERE ONCE ACTION RUNS -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryansingh66665/aaryansingh66665/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaryansingh66665/aaryansingh66665/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aaryansingh66665/aaryansingh66665/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+</div>
+
+<div align="center">
+  <i>Let's connect and build something amazing together! 🚀</i>
 </div>
